@@ -10,6 +10,8 @@ offering protection of data, all while allowing for lightweight Vite-React moder
 
 HOW TO START 
 =======================================
+Download and Extract RAR file. 
+
 with terminal in the server directory:
 **npm start**
 
